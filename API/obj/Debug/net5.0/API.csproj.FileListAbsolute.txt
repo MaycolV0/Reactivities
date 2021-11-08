@@ -122,3 +122,5 @@ C:\VSProjectsC\Reactivities\API\obj\Debug\net5.0\API.dll
 C:\VSProjectsC\Reactivities\API\obj\Debug\net5.0\ref\API.dll
 C:\VSProjectsC\Reactivities\API\obj\Debug\net5.0\API.pdb
 C:\VSProjectsC\Reactivities\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\VSProjectsC\Reactivities\API\bin\Debug\net5.0\MediatR.dll
+C:\VSProjectsC\Reactivities\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
